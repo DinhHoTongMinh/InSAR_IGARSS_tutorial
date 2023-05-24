@@ -7,7 +7,9 @@ The main goal is able to produce time series of ground motion from a stack of SA
 Both Window and Unix Operation Systems are supported.
 
 Sentinel-1 InSAR processing workflow with SNAP, Session 1/3 (https://youtu.be/5a5gBPA9Gbk)
+
 SNAP2StaMPS – Data preparation for StaMPS PSInSAR processing with SNAP, Session 2/3 (https://youtu.be/HzvvJoDE8ic)
+
 Persistent Scatterer InSAR time series with StaMPS in Window and Unix, Session 3/3 (https://youtu.be/a1WlsoRrlrU)
 
 You can ask for more in this group:
